@@ -1,4 +1,4 @@
-# lab7-faisal
+# lab7-Ibrahim
 
 Answer the following questions:
 
